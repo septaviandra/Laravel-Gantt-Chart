@@ -1,2 +1,3 @@
 # Laravel-Gantt-Chart
-Example of using DHTMLX Gnat Chart on Laravel
+Example of using DHTMLX Gantt Chart on Laravel
+wekkly step
